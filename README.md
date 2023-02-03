@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Marie-Noel. I am a Scrum Master transitioning to a Cloud DevOps Engineer. I have over 5 years of experience in coaching teams on the best ways of leveraging Agile frameworks to achieve value and produce high quality software products. With the growing need for Cloud professionals, i enrolled in a DevOps Engineering program with Level Up in Tech to obtain education in Cloud Computing. I am currently learning the following skills: Linux, AWS, Infrastructure as Code, terraform, Kubernetes, Containerization.
+My name is Marie-Noel. I am a Scrum Master transitioning to a Cloud DevOps Engineer. I have over 5 years of experience in coaching teams on the best ways of leveraging Agile frameworks to achieve value and produce high quality software products. With the growing need for Cloud professionals, i enrolled in a DevOps Engineering program with Level Up in Tech to obtain education in Cloud Computing. I am currently learning the following skills: Linux, AWS, Git. GitHub, Infrastructure as Code, terraform, Kubernetes, Containerization.
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-MarieNoel%20Morfaw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marie-noel-morfaw-a82789254/)](https://www.linkedin.com/in/marie-noel-morfaw-a82789254/)
